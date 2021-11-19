@@ -1,5 +1,9 @@
 [
     {
+        "name": "function4",
+        "private": false
+    },
+    {
         "name": "function0",
         "private": false
     },
@@ -8,7 +12,7 @@
         "private": false
     },
     {
-        "name": "function4",
+        "name": "func5",
         "private": false
     }
 ]
